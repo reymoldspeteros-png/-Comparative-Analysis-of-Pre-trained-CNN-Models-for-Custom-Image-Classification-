@@ -1,8 +1,8 @@
 # Comparative Analysis of Pre-trained CNN Models for Custom Image Classification
 
-## Google Colab Link
-:contentReference[oaicite:0]{index=0}
 
+🔗 **Google Colab Notebook:**  
+https://colab.research.google.com/drive/1DLHNcl-YF_XNNSBAGTYl93wq6vhHne6D?usp=sharing
 # GUIDE QUESTIONS (FINAL REFLECTION)
 
 ## A. Model Performance
